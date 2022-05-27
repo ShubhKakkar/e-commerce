@@ -1,0 +1,29 @@
+{
+  "name": "e-commerce",
+  "version": "1.0.0",
+  "description": "Code base for an e-commerce web application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShubhKakkar/e-commerce.git"
+  },
+  "keywords": [
+    "ecommerce",
+    "online",
+    "buynow",
+    "shop"
+  ],
+  "author": "Shubham Kakkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShubhKakkar/e-commerce/issues"
+  },
+  "homepage": "https://github.com/ShubhKakkar/e-commerce#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
